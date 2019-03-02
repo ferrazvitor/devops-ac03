@@ -1,0 +1,5 @@
+Projeto da Arquitetura de Software
+Um projetista desenvolve um projeto considerando um conjunto de decisões de projeto. Para tomar decisões, 
+ele leva em conta os requisitos arquiteturais que motivam e justificam suas decisões. Por trás disto,
+também estão metas de qualidade desejadas para o sistema a ser desenvolvido, bem como cenários de uso,
+estilos arquiteturais existentes e padrões de projeto. 
