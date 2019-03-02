@@ -1,0 +1,8 @@
+Análise
+A analise é o processo de observação e levantamento dos elementos do ambiente onde o software será implantado. Devem-se identificar as pessoas que terão contato com o software, quer seja um contato operacional ou para o fornecimento de informações relevantes para o seu desenvolvimento.
+Também deve ser checadas todas as atividades que estão envolvidas no sistema: quem faz, por que faz, se existem outras formas de serem feitas. Não se esquecendo dos dados e informações que são gerados por essas atividades.
+
+A Especificação
+
+A especificação é a descrição sistemática e abstrata do que o software deve fazer a partir daquilo que foi analisado anteriormente. Ela apresenta a solução de como os problemas levantados na análise devem ser resolvidos pelo software em desenvolvimento.
+A especificação é a forma de comunicação direta entre o analista e a equipe de desenvolvimento do software.
