@@ -1,0 +1,7 @@
+Uma atividade essencial no desenvolvimento de todo e qualquer projeto é o planejamento. Um plano tem o papel semelhante ao de um ‘mapa’. Sem um mapa, um plano ou qualquer outra fonte de informação similar, você não conhecerá seus objetivos, nem aonde quer chegar e jamais terá a certeza de ter alcançado sua meta. Perceba que entender o propósito do planejamento é de suma importância a fim de monitorar a execução de atividades, sendo também importante conhecer o papel dos riscos no planejamento, bem como diferenciar estratégias de planos. Planejamento engloba três atividades principais:
+
+1.     Definir um cronograma de atividades: estabelecer as atividades que devem ser realizadas, as etapas a serem seguidas e a ordem cronológica de execução;
+
+2.     Fazer alocação de recursos: definir quem realiza as atividades e quais ferramentas/recursos a serem utilizados;
+
+3.     Definir marcos de projeto – estabelecer os marcos, ou milestones, a serem alcançados com objetivo de se fazer o acompanhamento.
